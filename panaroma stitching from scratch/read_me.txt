@@ -2,7 +2,7 @@
 
 ## Executing the code:
 >> Run test_script.py.
->> Enter the image set no. to execute the code on respective set.
+>> Enter the image set no. to execute the code on respective set. (with this repo I have only provide one set so go with '1' as input)
 >> The Homography matrix in between the current pair of images will be displayed.
 >> Final panaroma image will be saved in the same folder as of dataset.
 
@@ -16,3 +16,4 @@ in the panaroma_stitching.py (commented in the code)
 (Both the above are commented in the code itself)
 >> To see the intermediate progress, uncomment the part mentioned in panaroma_stitching.py.
 (the intermediate images will be saved in the same directory in BGR format)
+>> currently the code is written to stitch 8 panaromic images, but one can modify as per ones needs.
