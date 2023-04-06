@@ -2,7 +2,7 @@
 
 ## Executing the code:
 >> Run test_script.py.
->> Enter the image pair no. to execute the code on respective set.
+>> Enter the image pair no. to execute the code on respective set.(we have provided only one set with this repo so go for '1' as input)
 >> The Fundamental matrix in between the pair of images will be displayed (both for inbuilt function
 and using my RANSAC function)
 >> Input the image patch size (choose in between 3 and 5) for reconstruction.
